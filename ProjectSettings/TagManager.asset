@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boost
+  - racer
+  - wall
+  - checkpoint
+  - Shield
+  - offroad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Track
+  - Water
+  - UI
+  - Boost
+  - Bloom
+  - P1
+  - P2
+  - P3
+  - P4
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
